@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is James, and I'm a McGill trained computer scientist specializing in Artifical Intellegence!
+
+- 🔭 I’m currently working on machine vision techniques in drone navigation and robotics
+- 🌱 I’m currently learning reinforcement learning and robotics
+- 👯 I’m looking to get a job working on cool projects with AI!
+
+
 <!--
 **James-R-Newman/James-R-Newman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
