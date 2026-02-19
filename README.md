@@ -2,7 +2,7 @@
 
 My name is James, and I'm a McGill trained computer scientist specializing in Artifical Intellegence!
 
-- 🔭 I’m currently working on machine vision techniques in drone navigation and robotics
+- 🔭 I’m currently working on machine vision techniques in autonomous vechicles and robotics
 - 🌱 I’m currently learning reinforcement learning and robotics
 - 👯 I’m looking for a job working on cool projects with AI!
 
